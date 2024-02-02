@@ -1,16 +1,32 @@
-# coffee_challenge
+# HeyFlutter Community Coffee App UI Challenge
 
-A new Flutter project.
+## Introduction
+This repository contains my submission for the HeyFlutter community Coffee App UI challenge.
 
-## Getting Started
+## My Participation
+I actively participated in the HeyFlutter community Coffee App UI challenge and thoroughly enjoyed working on this project.
 
-This project is a starting point for a Flutter application.
+## Project Code
+You can find the code for this Coffee App UI challenge on [GitHub](https://github.com/Shehzaan-Mansuri/coffee-challenge).
 
-A few resources to get you started if this is your first Flutter project:
+## Description
+The Coffee App UI challenge revolved around [provide a brief description of the challenge]. In my project, I focused on [briefly outline your approach to the Coffee App UI].
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+To run this Coffee App UI project, follow these steps:
+1. Clone the repository: `git clone https://github.com/Shehzaan-Mansuri/coffee-challenge`
+2. cd into the project directory: `cd coffee-challenge`
+3. Run the project: `flutter run`
+
+## Acknowledgments
+I want to express my gratitude to the HeyFlutter community for organizing this Coffee App UI challenge. For their valuable contributions.
+
+## Screenshots
+![Splash Screen](screenshots/splash.png)
+![Home Screen](screenshots/home.png)
+![Details Screen](screenshots/details.png)
+![Order Screen](screenshots/order.png)
+![Trackin Screen](screenshots/traking.png)
+...
+
