@@ -27,6 +27,6 @@ I want to express my gratitude to the HeyFlutter community for organizing this C
 ![Home Screen](screenshots/home.png)
 ![Details Screen](screenshots/details.png)
 ![Order Screen](screenshots/order.png)
-![Trackin Screen](screenshots/traking.png)
+![Tracking Screen](screenshots/tracking.png)
 ...
 
